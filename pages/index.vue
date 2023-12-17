@@ -26,6 +26,13 @@
             <p>
                 {{ $t('introduction') }}
             </p>
+
+            <div class="boxed">
+                <p>
+                    {{ $t('christmasSchedule') }}
+                </p>
+            </div>
+
             <div class="boxed">
                 <p>
                     {{ $t('locationText1') }} (<b>Kauppakatu 44</b>)<br/>
