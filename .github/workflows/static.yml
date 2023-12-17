@@ -34,6 +34,6 @@ jobs:
           git commit -m 'deploy'
 
       - name: Deploy
-        uses: HacklabKuopio/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: ${{env.BUILD_FOLDER}}
