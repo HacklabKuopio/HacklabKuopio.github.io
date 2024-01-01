@@ -80,6 +80,7 @@
                         {{ $t('contact') }}
                     </h4>
                     <span>
+                        hacklabkuopio@gmail.com
                         <img src="/img/email.png" alt=""/>
                     </span>
                     <span>
