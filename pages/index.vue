@@ -7,11 +7,12 @@
     <Head>
         <Meta property="og:title" content="Hacklab Kuopio"/>
         <Meta property="og:description" content="Yhteisöllinen työtila"/>
-        <Meta property="og:image" content="/img/nuxt.png"/>
+        <Meta property="og:image" content="/img/hacklab_logo_v2.6.png"/>
         <Meta name="twitter:card" content="summary"/>
     </Head>
 
     <div class="header">
+        <img src="/img/hacklab_logo_v2.6.png" alt="" id="logo"/>
         <div id="halko" class="title">
             <h1>Hacklab Kuopio</h1>
             <h4>{{ $t('slogan') }}</h4>
@@ -27,11 +28,11 @@
                 {{ $t('introduction') }}
             </p>
 
-            <div class="boxed">
+            <!-- <div class="boxed">
                 <p>
                     {{ $t('christmasSchedule') }}
                 </p>
-            </div>
+            </div> -->
 
             <div class="boxed">
                 <p>
