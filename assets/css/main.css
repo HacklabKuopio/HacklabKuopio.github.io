@@ -158,7 +158,8 @@ a {
     font-family: serif;
     font-size: 5rem;
     font-weight: 300;
-    text-decoration: underline;
+    text-decoration: underline 4px;
+    text-underline-offset: 0.5rem;
     text-align: left;
     line-height: 5rem;
     margin: 2rem auto 1rem 2rem;
@@ -246,6 +247,23 @@ footer {
     }
 }
 @media screen and (max-width: 769px) {
+    .header {
+        /* display: flex; */
+        flex-direction: column;
+        /* margin-top: 0.5rem; */
+    }
+    .title h1 {
+        display: none;
+    }
+    .title h4 {
+        text-align: center;
+        margin: 0 auto;
+        text-decoration: underline 1px;
+        text-underline-offset: 0.5rem;
+    }
+    .header #logo {
+        margin: 1rem auto;
+    }
     .content-wrapper {
         padding: 0;
     }
