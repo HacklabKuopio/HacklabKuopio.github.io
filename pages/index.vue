@@ -57,6 +57,10 @@
                 <p>
                     {{ $t('experience') }}
                 </p>
+                <p>
+                    <a href="/blog/">{{ $t('blogAnnouncementsLinkText') }}</a> {{ $t('blogAnnouncementsText') }}<br/>
+                    {{ $t('beginningStoryTextLink') }} [<a href="/blog/001-first-post/">{{ $t('beginningStroyText') }}</a>].
+                </p>
             </div>
 
 
@@ -67,8 +71,6 @@
 
             <h4>{{ $t('announcements') }}</h4>
             <!-- <p>Ei uusia tiedotteita.</p> -->
-            <p><a href="/blog/">{{ $t('blogAnnouncementsLinkText') }}</a> {{ $t('blogAnnouncementsText') }}<br/>
-            {{ $t('beginningStoryTextLink') }} [<a href="/blog/001-first-post/">{{ $t('beginningStroyText') }}</a>].</p>
 
             <br/>
             <br/>
