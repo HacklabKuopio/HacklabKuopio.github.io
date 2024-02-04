@@ -5,7 +5,7 @@ headline: 'Alkutarina'
 excerpt: "Hacklab-toiminta on käynnistynyt tauon jälkeen Kuopiossa"
 date: '2023-10-01T22:00:00'
 dateUpdated: ''
-author: 'Zetsuno'
+author: 'Eemeli'
 # authorUrl: 'https://example.com/'
 socialImage:
     src: '/img/blog/7cIhAGiBerY8.jpg'
@@ -26,4 +26,4 @@ Olin pitemmän hetken jo ennen tätä miettinyt, että pienehkö “tee se itse�
 
 Nyt on jo tila käynyt pieneksi, kolataan meidän elektroniikka ja robotiikka aina päivän päätteeksi sitten takaisin meidän nurkkaan. Mietitään omaa huonetta tai isompaa tilaa, ja kuulostaa ihan toiveekkaalta että sellainen voitaisiin saada. Jossa voisi harrastaa ja tehdä projekteja, sosialisoida ja oppia uutta. Saatiin muodostettua hallitus ja yhdistys omiin nimiin. Tarkoituksena olisi hakea avustuksia projekteihin mitä meillä on menossa: isoimpana meidän roskankeruurobotti, joka on alkanut herätä henkiin vanhasta sähköpyörätuolista. Muuten aika softapainotteista, ja toki ollaan niillä raspbeilla ja muilla pienillä koneilla leikitty. Leikkimistähän tämä toki on, ja opettavaista ja mielenkiintoista sellaista. Sellaista leikkimistä josta saattaa tulla jotain hyödyllistä, tai vaikka tehä jotain positiivista jälkeä maailmaan. Ja kiva olla ihmisten kanssa, aina olen tällaisesta tekemisen yhteisöstä haaveillut. Jo lapsuuden peleissä tykkäsin niin paljon ideasta että seikkaillaan ympäri maailmaa ja löytyy uusia kumppaneita jotka sitten antavat oman uuden pikku juttunsa yhteiselle jutulle. Ihanaa pöhinää. Täällä menee hyvin, ja toivottavasti menee jatkossakin. Jotain hankaluuksia tietysti tulee, mutta pyritään selvittämään ne ja pääsemään niistä yli. Tulehan sinäkin pöhisemään ja kokeilemaan jos olisi sinun juttusi myös.
 
-Kaikkea parasta kaikille toivoen, Zetsuno.
+Kaikkea parasta kaikille toivoen, Eemeli.
