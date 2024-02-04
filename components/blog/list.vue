@@ -16,7 +16,8 @@
                         <p class="text-sm leading-sm mb-4 text-typography_primary/75 dark:text-typography_primary_dark/75">
                             {{ $formatDate(article.date) }}
                         </p>
-                        <p>{{ article.excerpt }}</p>
+                        <!-- <p>{{ article.excerpt }}</p> -->
+                        <p>{{ article.author }}</p>
                     </header>
                 </div>
             </a>
