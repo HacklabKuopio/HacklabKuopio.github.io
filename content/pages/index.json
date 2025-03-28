@@ -1,0 +1,35 @@
+{
+    "site_title": "HALKO",
+    "site_subtitle": "Yhteisöllinen työtila",
+    "discord_link": "https://discord.com/invite/FzJMbnjKT4",
+    "facebook_link": "https://www.facebook.com/kuopiohacklab",
+    "instagram_link": "https://www.instagram.com/hacklabkuopio",
+    "address": "Kaivotie 38, 70700, Kuopio",
+    "intro_content": [
+        {
+            "text_row": "Hacklab-toiminta on käynnistetty uudelleen keväällä 2023. Yhdistyksellä on Särkiniemessä 120m² työtila jäsenistön käytössä, johon avainjäsenillä on pääsy 24/7. Tutustumaan pääsee avoimien ovien aikaan ilman ennakkoilmoittautumista."
+        },
+        {
+            "text_row": "Tule mukaan harrastamaan tekniikan, elektroniikan ja muiden tee se itse -juttujen parissa, olipa sinulla oma projekti tai ei. Tiloista noin neljännes on taidepuolta. Voidaan miettiä yhdessä mitä tehdään, yksin tai porukalla. Jaetaan omaa osaamista ja saadaan apua muilta. Mukaan voi tulla myös vain tutustumaan, juttelemaan, pelaamaan lautapelejä tai tekemään ihan kouluhommiakin."
+        },
+        {
+            "text_row": "Tiloilta löytyy perustyökalusto, tietokoneita, 3D-printtereitä, kolvi, oskilloskooppi, maalaus- ja työtilaa. Keittiön puolella voi laittaa ruokaa ja jäsenistölle on jääkaappi."
+        },
+        {
+            "text_row": "Toimintamme on tarkoitettu täysi-ikäisille. Alaikäisen on mahdollista oleskella Hacklabin tiloissa vain aikuisen mukana."
+        }
+    ],
+    "main_content": [
+        {
+            "text_row": "Kokoonnumme Kaivotie 38:lla Kuopion Särkiniemessä, 2. kerros. Soita Kulkutien puoleista ovikelloa, jossa lukee Hacklab."
+        },
+        {
+            "text_row": "Tule paikan päälle ja/tai liity Discord-serverillemme."
+        },
+        {
+            "text_row": "Osaaminen ei ole vaatimus :) Tervetuloa mukaan!"
+        }
+    ],
+    "opening_times": "Torstaisin klo 18-22 ja sunnuntaisin klo 14-22",
+    "registration": "Yhdistyksen jäseneksi rekisteröityminen tapahtuu paikan päällä! Sovi tapaaminen Discordissamme tai saavu paikalle aukioloaikoina."
+}

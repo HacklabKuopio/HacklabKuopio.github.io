@@ -1,0 +1,58 @@
+{
+    "page_title": "Rekisteri- ja tietoturvaseloste",
+    "button_text": "Klikkaa nähdäksesi yhteystiedon sähköposti",
+    "clauses": [
+        {
+            "clause_title": "1. Rekisterinpitäjä",
+            "clause_content": "Kuopio Hacklab ry - (Halko organisaatio)"
+        },
+        {
+            "clause_title": "2. Tietosuojavastaava",
+            "clause_email": "LEAVE EMPTY HERE, USE ENV VARIABLE"
+        },
+        {
+            "clause_title": "3. Rekisterin nimi",
+            "clause_content": "Jäsenmaksujen rekisteri. (Henkilörekisteri)"
+        },
+        {
+            "clause_title": "4. Oikeusperuste ja henkilötietojen käsittelyn tarkoitus",
+            "clause_content": "Henkilötietojen käsittelyn perusteena on kerätä lista yhdistyksen jäsenistä. Henkilötietojen käsittelyn tarkoituksena on pystyä viestimään yhdistyksen jäsenille heidän jäsenyyteensä kohdistuvista muutoksista ja pystyä laskuttamaan jäsenmaksut. Halko organisaatio toimii henkilörekisterin henkilötietojen käsittelijänä henkilötietolain määrittämässä ominaisuudessa."
+        },
+        {
+            "clause_title": "5. Rekisterin tietosisältö",
+            "clause_content": "Käsittelemme rekisterin yhteydessä seuraavia henkilötietoja: rekisteröidyn nimi (etunimet, sukunimi), rekisteröidyn yhteystiedot (puhelinnumero (vapaaehtoinen), sähköpostiosoite, osoite (vapaaehtoinen), Discord ja Matrix nimimerkit (vapaaehtoinen), muut mahdolliset rekisteröidyn suostumuksella kerätyt tiedot. Rekisterinpitäjän verkkosivuilla ei käytetä evästeitä tietojen keräämiseksi rekisteröidystä."
+        },
+        {
+            "clause_title": "6. Säännönmukaiset tietolähteet",
+            "clause_content": "Rekisteriin tallennettavat tiedot saadaan rekisteröidyltä/henkilöltä itseltään erikseen täytettävillä verkkolomakkeilla."
+        },
+        {
+            "clause_title": "7. Tietojen siirrot ja luovutus",
+            "clause_content": "Tietoja ei siirretä rekisterinpitäjän toimesta EU:n tai ETA:n ulkopuolelle."
+        },
+        {
+            "clause_title": "8. Rekisterin suojauksen periaatteet",
+            "clause_content": "Rekisterin käsittelyssä noudatetaan huolellisuutta ja tietojärjestelmien avulla käsiteltävät tiedot suojataan asianmukaisesti henkilökohtaisilla tunnuksilla ja salasanoilla. Rekisterinpitäjä huolehtii siitä, että tallennettuja tietoja sekä käyttöoikeuksia ja muita henkilötietojen turvallisuuden kannalta kriittisiä tietoja käsitellään luottamuksellisesti ja vain niiden henkilöiden toimesta, joiden toimenkuvaan se kuuluu."
+        },
+        {
+            "clause_title": "9. Tietojen säilytysajat, tai sen määrittämisen kriteerit",
+            "clause_content": "Säilytämme henkilötietoja niin kauan kuin tiedon käyttötarkoituksen vuoksi on tarpeellista. Tietojen säilytysaika (tai määrittämiskriteerit) voidaan myös johtaa pakollisista (laissa säädetyistä) säilytysajoista ja rekisterinpitäjän toimialan käytännesäännöistä. Halko organisaatio arvioi tietojen säilyttämisen tarpeellisuutta sisäisesti huomioiden sovellettavan lainsäädännön. Henkilöllä on oikeus pyytää tietojensa poistoa rekisteristä tietosuojavastaavalta."
+        },
+        {
+            "clause_title": "10. Tarkastusoikeus ja oikeus vaatia tiedon korjaamista",
+            "clause_content": "Jokaisella rekisterissä olevalla henkilöllä on oikeus tarkistaa rekisteriin tallennetut tietonsa ja vaatia mahdollisen virheellisen tiedon korjaamista tai puutteellisen tiedon täydentämistä. Rekisteröidyn oikeudet: Oikeus saada pääsy henkilötietoihin, oikeus tietojen oikaisemiseen, oikeus tietojen poistamiseen, oikeus käsittelyn rajoittamiseen, vastustamisoikeus, oikeus siirtää tiedot järjestelmästä toiseen. Rekisterissä olevalla henkilöllä on oikeus pyytää häntä koskevien henkilötietojen poistamiseen rekisteristä (\"oikeus tulla unohdetuksi\"). Henkilöllä on myös oikeus peruuttaa suostumus tai sopimus milloin tahansa. Mikäli henkilö haluaa tarkistaa hänestä tallennetut tiedot tai vaatia niihin oikaisua, pyyntö tulee lähettää kirjallisesti rekisterinpitäjälle. Rekisterinpitäjä voi pyytää tarvittaessa pyynnön esittäjää todistamaan henkilöllisyytensä. Rekisterinpitäjä vastaa asiakkaalle EU:n tietosuoja-asetuksessa säädetyssä ajassa (pääsääntöisesti kuukauden kuluessa)."
+        },
+        {
+            "clause_title": "11. Oikeus tehdä valitus valvontaviranomaiselle",
+            "clause_content": "Jokaisella rekisteröidyllä on oikeus tehdä kantelu valvontaviranomaiselle, erityisesti siinä jäsenvaltiossa, jossa hänen vakinainen asuinpaikkansa tai työpaikkansa on tai jossa väitetty tietosuoja-asetuksen rikkominen on tapahtunut."
+        },
+        {
+            "clause_title": "12. Henkilötietojen luovuttamisen lakisääteisyys",
+            "clause_content": "Mikäli henkilötietojen antaminen on lakisääteinen tai sopimukseen perustuva vaatimus tai sopimuksen tekemisen edellyttämä vaatimus, Halko organisaatio rekisterinpitäjänä esittää tässä yhteydessä selkeästi, mikäli rekisteröidyn on pakko toimittaa henkilötiedot ja mitkä ovat tällaisten tietojen antamatta jättämisen mahdolliset seuraamukset."
+        },
+        {
+            "clause_title": "13. Automaattinen tietojen käsittely",
+            "clause_content": "Emme tee sinua koskevia profilointeja tai automaattisia päätöksiä."
+        }
+    ]
+}
