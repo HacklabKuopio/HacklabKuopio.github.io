@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Alte DIN 1451 Mittelschrift Regular';
+  src: url('/fonts/Alte_Din/din1451alt.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Alte DIN 1451 Mittelschrift gepraegt';
+  src: url('/fonts/Alte_Din/din1451alt_G.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+}
